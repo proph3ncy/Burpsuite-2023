@@ -12,6 +12,12 @@ For commercial use, please purchase genuine software - https://portswigger.net/b
 
 ✨If this project helps you, click Star (to Original Repository) 🥰✨
 
+Burp Suite Professional Installation steps for Windows
+
+
+
+
+
 Command line
 
 
